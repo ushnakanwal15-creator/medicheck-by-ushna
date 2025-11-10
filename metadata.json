@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MediCheck Assistant",
+  "description": "An AI-powered assistant that provides dosage guidance and side-effect information for medicines based on age and language preference.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
